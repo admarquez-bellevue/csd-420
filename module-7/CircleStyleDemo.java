@@ -1,3 +1,7 @@
+// Adrian Marquez
+// 05/13/2025
+// Module 7.2
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.HBox;
@@ -16,7 +20,7 @@ public class CircleStyleDemo extends Application {
         Circle circle2 = new Circle(50);
         circle2.setId("redcircle");
 
-        Circle circle3 = new Circle(50);
+        Circle circle3 = new Circle(50);  javafx-sdk-24.0.1
         circle3.setId("greencircle");
 
         Circle circle4 = new Circle(50);
