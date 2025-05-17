@@ -1,9 +1,13 @@
+// Adrian Marquez
+// 05/17/2025
+// Module 2.2 Redo
+
 import java.io.*;
 import java.util.Random;
 
-public class RandomDataWriter {
+public class randomdatawriter {
     public static void main(String[] args) {
-        String fileName = "yourname_datafile.dat";
+        String fileName = "adrian_datafile.dat";
         Random rand = new Random();
         
         try (FileWriter fw = new FileWriter(fileName, true);

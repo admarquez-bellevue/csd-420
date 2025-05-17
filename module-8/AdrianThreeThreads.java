@@ -1,3 +1,7 @@
+// Adrian Marquez
+// 05/13/2025
+// Module 8.2 
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.TextArea;

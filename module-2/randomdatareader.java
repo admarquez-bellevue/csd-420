@@ -1,9 +1,13 @@
+// Adrian Marquez
+// 05/17/2025
+// Module 2.2 Redo
+
 import java.io.*;
 import java.util.Scanner;
 
-public class RandomDataReader {
+public class randomdatareader {
     public static void main(String[] args) {
-        String fileName = "yourname_datafile.dat";
+        String fileName = "adrian_datafile.dat";
         
         try (Scanner scanner = new Scanner(new File(fileName))) {
             while (scanner.hasNextLine()) {
