@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run CardViewer",
+        "request": "launch",
+        "mainClass": "CardViewer",
+        "vmArgs": "--module-path /Users/adrianmarquez/javafx-sdk-21.0.10/lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
